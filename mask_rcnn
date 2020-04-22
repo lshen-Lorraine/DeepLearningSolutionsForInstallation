@@ -1,0 +1,6 @@
+ways to solve ModuleNotFoundError: No module named 'mrcnn':
+1.Under Mask_RCNN directory
+python setup.py install
+
+2. when use the package
+from Mask_RCNN.mrcnn import utils
